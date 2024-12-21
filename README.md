@@ -1,0 +1,2 @@
+# Weekend-Mode
+Weekend
